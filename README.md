@@ -19,7 +19,8 @@
 
 ---
 
-![Plan de respuesta a incidentes: acceso no autorizado en red corporativa](./infografia-ir-plan.png)
+![Plan de respuesta a incidentes: acceso no autorizado en red corporativa]<img width="2800" height="3980" alt="infografia-ir-plan" src="https://github.com/user-attachments/assets/a1e99010-7ae0-40ed-91c8-e36ba6aec5b4" />
+
 
 ## Tipos de incidente cubiertos
 
